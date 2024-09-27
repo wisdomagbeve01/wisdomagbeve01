@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Wisdom Agbeve</h1>
 <h3 align="center">Data enthusiast obsessed with uncovering insights from complex datasets to drive impactful decisions. Passionate about using analytics and machine learning to solve real-world problems in healthcare, business, and beyond. Always exploring new ways to turn raw data into meaningful solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdomagbeve01&label=Profile%20views&color=0e75b6&style=flat" alt="wisdomagbeve01" /> </p>
@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisdomagbeve01&show_icons=true&locale=en&layout=compact" alt="wisdomagbeve01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisdomagbeve01&" alt="wisdomagbeve01" /></p>
-
