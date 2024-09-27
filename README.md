@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Wisdom Agbeve</h1>
 <h3 align="center">Data enthusiast obsessed with uncovering insights from complex datasets to drive impactful decisions. Passionate about using analytics and machine learning to solve real-world problems in healthcare, business, and beyond. Always exploring new ways to turn raw data into meaningful solutions.</h3>
-<img align="right" alt="Coding" width="21000" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"”>
+<img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdomagbeve01&label=Profile%20views&color=0e75b6&style=flat" alt="wisdomagbeve01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a Google Cloud Data Analytics Certificate**
+- 🔭 I’m currently working on **Google Cloud Data Analytics Certificate**
 
 - 🌱 I’m currently learning **advanced machine learning techniques, web scraping, and data visualization tools to enhance my ability to derive actionable insights from complex datasets.**
 
