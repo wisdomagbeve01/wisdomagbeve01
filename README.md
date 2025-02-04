@@ -2,7 +2,9 @@
 
 <h1 align="center">HELLO WORLD 👋, I'M WISDOM AGBEVE</h1>
 <h1 align="center"> WELCOME TO MY GITHUB PORTFOLIO 💻</h1>
-<h3 align="center">Data enthusiast obsessed with uncovering insights from complex datasets to drive impactful decisions. Passionate about using analytics and machine learning to solve real-world problems in healthcare, business, and beyond. Always exploring new ways to turn raw data into meaningful solutions.</h3>
+<h3 align="center">Aspiring data/business/finance/marketing analyst seeking an internship to apply skills in SQL, R, Python, and Tableau.
+Earned the Google Data Analytics Professional Certificate and excel at using data to drive insights and improve
+decision-making.</h3>
 <img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"”>
 
 
